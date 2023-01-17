@@ -17,7 +17,7 @@ const Cvideos = () => {
       <div>
         {
             cdata.map((data)=>(
-                <div key={data.day} style={{width : "80%" }} className="border border-ligth  shadow p-1 mb-3 bg-body rounded d-flex justify-content-between"> 
+                <div key={data.day} style={{width : "88%" }} className="border border-ligth  shadow p-1 mb-3 bg-body rounded d-flex justify-content-between"> 
                     <div className='d-flex '>
                         <p className='rounded-circle bg-secondary m-3 p-1 Ligth text-white' style={{width:30,height:30}}>{data.day}</p> 
                         <p className='p-1 mt-3 fs-6'>{data.date}</p>
