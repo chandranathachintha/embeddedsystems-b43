@@ -94,7 +94,7 @@ export var cdata =[
         {
             "day" : 14 ,
             "date" : "6-1-2023",
-            "topic" : "Even & Prime Numbers,extract the digit from Number",
+            "topic" : "Even & Prime Num,extract digit from Num",
             "passcode":"^.*v@=k9",
             "url":"https://us02web.zoom.us/rec/play/zPrl51USQOYCq3CXKc8Wyhseox_qxM7kud00vm4_nJIXLGNj454oST2k1usZTuf1UK6MQNZJztd36J9D.Nx74xT0TSIbhoPXo?continueMode=true&_x_zm_rtaid=ZVK2qKKnSlOa1rjdmV3QXg.1673939438923.e1376077aa812a620e9c228eed79c8ca&_x_zm_rhtaid=612"
         },
